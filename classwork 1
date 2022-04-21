@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Share Your Travels -- Mitre Peak</title>
+  </head>
+  <body>
+    <h1>Share your Travels</h1>
+    <h2>New Zealand-Mitre Peak</h2>
+    <ul>
+      <li><a href="#Description">Description</a></li>
+      <li><a href="#Related Photos">Related Photos</a></li>
+      <li><a href="#Reviews">Reviews</a></li>
+    </ul>
+    <h3 id="Description">Description</h3>
+    <p>
+      Photo found by mitrepeak while searching in google about Mitre Peak
+    </p>
+    <p>
+      This photo of a Monastery in
+      <a> href="https://en.wikipedia.org/wiki/Mitre_Peak_(New_Zealand)"Mitre Peak</a>,
+      New Zealand and mitrepeak found this photo in google while doing
+      <strong>Web Development</strong> classwork.
+    </p>
+    <figure>
+      <img
+        src="mitrepeak.jifif"
+        alt="mitrepeak"
+        width="500rem"
+        height="200rem"
+      />
+      <figcaption><em>Monastery in mitre peak</em></figcaption>
+    </figure>
+    <p>
+      Share:
+      <a href="https://www.facebook.com/"
+        ><img src="facebook.svg" width="12rem" height="12rem"
+      /></a>
+      <a href="https://twitter.com/"
+        ><img src="twitter.svg" width="12rem" height="12rem"
+      /></a>
+      <a href="https://www.instagram.com/?hl=en"
+        ><img src="instagram.svg" width="12rem" height="12rem"
+      /></a>
+    </p>
+    <h3 id="Related Photos">Related Photos</h3>
+    <img
+      src="mitrepeak1.jpg"
+      alt="mitrepeak1"
+      width="300rem"
+      height="150rem"
+    />
+    <img
+      src="mitrepeak2.jpg"
+      alt="mitrepeak2"
+      width="300rem"
+      height="150rem"
+    />
+    <img
+      src="mitrepeak3.jpg"
+      alt="Mitrepeak3"
+      width="300rem"
+      height="150rem"
+    />
+    
+    <p>
+      <small><em>Mitre Peak, Milford Sound | © Bernard Spragg / Flickr</em></small>
+    </p>
+  </body>
+</html>
