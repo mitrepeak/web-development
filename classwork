@@ -1,1 +1,85 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Share Your Travels -- Mitre Peak</title>
+  </head>
+  <body>
+    <h1>Share your Travels</h1>
+    <h2>New Zealand-Mitre Peak</h2>
+    <ul>
+      <li><a href="#Description">Description</a></li>
+      <li><a href="#Related Photos">Related Photos</a></li>
+      <li><a href="#Reviews">Reviews</a></li>
+    </ul>
+    <h3 id="Description">Description</h3>
+    <p>
+      Photo found by mitrepeak while searching in google about Mitre Peak
+    </p>
+    <p>
+      This photo of a Monastery in
+      <a href=https://in.images.search.yahoo.com/search/images;_ylt=Awrx_tmXi2FigxgL8va9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGFjdG4DY2xrBGNzcmNwdmlkA2gwVTdiREV3TGpKVGY1TnJZUDYxb0F1ak1qUXdOUUFBQUFEc1Jtd1oEZnIDbWNhZmVlBGZyMgNzYS1ncARncHJpZANzbGZSa241cVF6LmRaamkuanZneV9BBG5fc3VnZwMwBG9yaWdpbgNpbi5pbWFnZXMuc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAwRxc3RybAMxNQRxdWVyeQMlMjBNaXRyZSUyMHBlYWsEdF9zdG1wAzE2NTA1NTk5MjY-?p=+Mitre+peak&fr=mcafee&fr2=sb-top-in.images.search&ei=UTF-8&x=wrt&type=E211IN826G0#id=11&iurl=https%3A%2F%2F2.bp.blogspot.com%2F-7XzfFlZxZEw%2FWhSXj1fbkiI%2FAAAAAAAADKc%2FGOV2yJJ6KbMpZQkzoE3mBDaw0-UCpk7OgCLcBGAs%2Fs1600%2FMitre%252BPeak%252BGilgit-Baltistan%252BPakisatn.jpg&action=close found this photo in google while doing
+      <strong>Web Development</strong> classwork.
+    </p>
+    <figure>
+      <img
+        src="mitrepeak.jifif"
+        alt="mitrepeak"
+        width="500rem"
+        height="200rem"
+      />
+      <figcaption><em>Monastery in mitre peak</em></figcaption>
+    </figure>
+    <p>
+      Share:
+      <a href="https://www.facebook.com/"
+        ><img src="facebook.svg" width="12rem" height="12rem"
+      /></a>
+      <a href="https://twitter.com/"
+        ><img src="twitter.svg" width="12rem" height="12rem"
+      /></a>
+      <a href="https://www.instagram.com/?hl=en"
+        ><img src="instagram.svg" width="12rem" height="12rem"
+      /></a>
+    </p>
+    <h3 id="Related Photos">Related Photos</h3>
+    <img
+      src="mitrepeak1.jpg"
+      alt="mitrepeak1"
+      width="300rem"
+      height="150rem"
+    />
+    <img
+      src="mitrepeak2.jpg"
+      alt="mitrepeak2"
+      width="300rem"
+      height="150rem"
+    />
+    <img
+      src="mitrepeak3.jpg"
+      alt="Himalayas-4"
+      width="300rem"
+      height="150rem"
+    />
+    <h3 id="Reviews">Reviews</h3>
+    <div>
+      <p>By El Chubacabra on <time>September 22, 2001</time></p>
+      <p>Easy on the googling buddy.</p>
+      <hr />
+    </div>
+    <div>
+      <p>By Susano on <time>August 27, 2001</time></p>
+      <p>I love Himalayas.</p>
+      <hr />
+    </div>
+    <div>
+      <p>By Amogus on <time>May 12, 2001</time></p>
+      <p>Them images are sick brdr.</p>
+    </div>
+    <div>
+      <a href="#">Home</a> | <a href="#">Browse</a> | <a href="#">Search</a>
+    </div>
+    <p>
+      <small><em>Mitre Peak, Milford Sound | © Bernard Spragg / Flickr</em></small>
+    </p>
+  </body>
+</html>
